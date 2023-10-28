@@ -78,7 +78,7 @@
         "YELLOW_300": "#7b68ee",
         "GREEN_360": "#7b68ee",
         "WHITE_500": "#FFFFFF"
-],
+},
     "plus": {
         "version": 0,
         "customOverlays": true,
