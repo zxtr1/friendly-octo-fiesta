@@ -1,0 +1,19 @@
+{
+    "name": "ZX SPECIAL",
+    "description": "An md3 icon pack wid a red colour customs",
+    "authors": [
+
+        {
+            "name": "zx.tr",
+            "id": "780054631542685747"
+
+        }
+    ],
+
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "iconpack":"md3"
+    },
+    "spec": 2
+}
